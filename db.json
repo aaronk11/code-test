@@ -2,18 +2,33 @@
     "users": [
         {
             "id": 1,
-            "username": "Amanda",
-            "type": "consumer"
+            "firstName": "Kurt",
+            "lastName": "Warner",
+            "age": "48"
         },
         {
             "id": 2,
-            "username": "Alex",
-            "type": "admin"
+            "firstName": "Michael",
+            "lastName": "Phelps",
+            "age": "34"
         },
         {
             "id": 3,
-            "username": "Steven",
-            "type": "consumer"
+            "firstName": "Steven",
+            "lastName": "Tyler",
+            "age": "71"
+        },
+        {
+            "id": 4,
+            "firstName": "Tom",
+            "lastName": "Hanks",
+            "age": "63"
+        },
+        {
+            "id": 5,
+            "firstName": "Tyler",
+            "lastName": "Boyd",
+            "age": "24"
         }
     ]
 }
